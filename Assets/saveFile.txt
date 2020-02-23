@@ -1,0 +1,9 @@
+3 3
+A0
+0A
+B2
+1B
+A1
+1A
+2A
+This is my file.
